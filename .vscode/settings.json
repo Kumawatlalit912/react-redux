@@ -1,0 +1,25 @@
+{
+    "marquee.widgets.npm-stats.packageNames": [
+        "addtocart"
+    ],
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#e1b245",
+        "activityBar.background": "#e1b245",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#168967",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "commandCenter.border": "#15202b99",
+        "sash.hoverBorder": "#e1b245",
+        "statusBar.background": "#d19c22",
+        "statusBar.foreground": "#15202b",
+        "statusBarItem.hoverBackground": "#a57b1b",
+        "statusBarItem.remoteBackground": "#d19c22",
+        "statusBarItem.remoteForeground": "#15202b",
+        "titleBar.activeBackground": "#d19c22",
+        "titleBar.activeForeground": "#15202b",
+        "titleBar.inactiveBackground": "#d19c2299",
+        "titleBar.inactiveForeground": "#15202b99"
+    },
+    "peacock.color": "#D19C22"
+}
